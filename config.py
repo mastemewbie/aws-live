@@ -1,0 +1,6 @@
+customhost = "student.c0xhsjrrgh3r.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Bait3273"
+customdb = "student"
+custombucket = "lewsoonyang-student"
+customregion = "us-east-1"
